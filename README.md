@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Pushkar Patidar  
+### Backend Developer | Node.js | Express | MongoDB | API Enthusiast  
 
-<!--
-**pushkar2311/pushkar2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable backend systems and clean REST APIs.  
+Currently focusing on creating efficient MongoDB schemas and smooth API integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+- 🔭 I’m currently working on **Component_Mitra**
+- 🌱 I’m learning **Advanced Node.js & API Security**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, RESTful APIs**
+- 📫 Reach me at **patidarpushkarpatidar9@gmail.com**
+- ⚡ Fun fact: I enjoy debugging and automating repetitive tasks 😄
+
+---
+
+### 🧰 Tech Stack
+`Node.js` | `Express.js` | `MongoDB` | `Postman` | `Git` | `Render` | `VS Code`
+
+---
+
+### 📊 GitHub Stats
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkar2311&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar2311&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patidarpushkarpatidar9@gmail.com)  
+[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/)
+
+---
+
+⭐ From [pushkar2311](https://github.com/pushkar2311)
