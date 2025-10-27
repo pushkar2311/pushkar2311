@@ -1,3 +1,5 @@
+![Pushkar Patidar Banner](https://raw.githubusercontent.com/pushkar2311/pushkar2311/refs/heads/main/Black%20and%20White%20Illustrative%20Manager%20LinkedIn%20Banner%20(1).png)
+
 # Hi 👋, I'm Pushkar Patidar  
 ### Backend Developer | Node.js | Express | MongoDB | API Enthusiast  
 
